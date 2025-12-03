@@ -1,0 +1,326 @@
+﻿Dep_ID,Location,Species,Date_deployed,Time_deployed,Date_retreived,Time_retreived,GPS,TDR,Bill_length [mm],Bill_depth [mm],Weight_deployment [kg],Weight_return [kg],Sex,Stage [a],Nest_on_dep [b],Nest_on_return,Notes,Nest_lat [deg N],Nest_lon [deg E]
+SIC001,"South Orkneys, Signy Island",Chinstrap penguin,29/12/2011,1400,01/01/2012,1757,None,A08267,50.2,NaN,4.4,4.5,NaN,Incubation,NaN,NaN,GPS tags didn't work,NaN,NaN
+SIC002,"South Orkneys, Signy Island",Chinstrap penguin,29/12/2011,1500,01/01/2012,1757,None,A08265,47.3,NaN,3.8,4.5,NaN,Incubation,NaN,NaN,GPS tags didn't work,NaN,NaN
+SIC003,"South Orkneys, Signy Island",Chinstrap penguin,29/12/2011,1700,01/01/2012,1812,None,A08262,45.4,NaN,3.5,3.2,NaN,Incubation,NaN,NaN,GPS tags didn't work,NaN,NaN
+SIC004,"South Orkneys, Signy Island",Chinstrap penguin,30/12/2011,1418,01/01/2012,1345,None,A08264,54.6,NaN,4.1,4.15,NaN,Incubation,NaN,NaN,No TDR,NaN,NaN
+SIC005,"South Orkneys, Signy Island",Chinstrap penguin,30/12/2011,1441,02/01/2012,1520,29309,None,46.5,NaN,4.15,4.2,NaN,Incubation,NaN,NaN,TDR failed,NaN,NaN
+SIC006,"South Orkneys, Signy Island",Chinstrap penguin,30/12/2011,1545,08/01/2012,1528,29414,None,47.3,NaN,3.2,NaN,NaN,Incubation,NaN,NaN,NaN,NaN,NaN
+SIC007,"South Orkneys, Signy Island",Chinstrap penguin,30/12/2011,1602,02/01/2012,1950,29472,None,51.5,NaN,4.95,NaN,NaN,Incubation,NaN,NaN,Never went to sea.,NaN,NaN
+SIC008,"South Orkneys, Signy Island",Chinstrap penguin,05/01/2012,1410,08/01/2012,1050,29421,A08265,51.4,NaN,4.8,4.7,NaN,Incubation,NaN,NaN,NaN,NaN,NaN
+SIC009,"South Orkneys, Signy Island",Chinstrap penguin,05/01/2012,1524,08/01/2012,1340,29417,A08266,51,NaN,4.2,4.3,NaN,Incubation/Guard,NaN,NaN,No GPS data. ,NaN,NaN
+SIC010,"South Orkneys, Signy Island",Chinstrap penguin,05/01/2012,1600,08/01/2012,800,IGOTU2,A08264,46.6,NaN,4.05,3.8,NaN,Incubation,NaN,NaN,No at sea GPS fixes.,NaN,NaN
+SIC011,"South Orkneys, Signy Island",Chinstrap penguin,05/01/2012,1750,08/01/2012,1850,IGOTU5,A08262,49.2,NaN,5.2,5.5,NaN,Incubation,NaN,NaN,No at sea GPS fixes.,NaN,NaN
+SIC012,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2012,1645,28/01/2012,1545,29417,A08262,45.5,17.8,3.6,3.7,NaN,Guard,NaN,NaN,OK. Observer: SA. Nest stage: Broodguard,NaN,NaN
+SIC013,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2012,1715,28/01/2012,1620,29421,A08264,48.2,18.6,4.5,4.6,NaN,Guard,NaN,NaN,OK. Observer: SA. Nest stage: Broodguard,NaN,NaN
+SIC014,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2012,1735,29/01/2012,1535,None,A08265,48.3,18.2,3.5,3.3,NaN,Guard,NaN,NaN,OK. Observer: SA. Nest stage: Broodguard. ,NaN,NaN
+SIC015,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2012,1805,29/01/2012,1545,None,A08266,50.4,19,4.35,3.7,NaN,Guard,NaN,NaN,OK. Observer: SA. Nest stage: Broodguard. ,NaN,NaN
+SIC016,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2012,1835,28/01/2012,1737,None,A08267,45.4,16.4,3.7,4.1,NaN,Guard,NaN,NaN,OK. Observer: SA. Nest stage: Broodguard.,NaN,NaN
+SIC017,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2012,1900,28/01/2012,1730,None,A07250,49.5,15.8,4.15,4.3,NaN,Guard,NaN,NaN,Observer: SA. Nest stage: Broodguard. Battery failed in tag - sent away for download. Data appear ok until 03:37 on 16/02/2012 according to cefas. ,NaN,NaN
+SIC018,"South Orkneys, Signy Island",Chinstrap penguin,10/02/2012,1740,15/02/2012,1911,29417,A08262,47.2,17.6,3.9,3.5,NaN,Guard,NaN,NaN,OK. Observer: SA. Nest stage: Broodguard,NaN,NaN
+SIC019,"South Orkneys, Signy Island",Chinstrap penguin,10/02/2012,1900,22/02/2012,1925,29421,A08264,47.5,18.7,4.1,3.6,NaN,Guard,NaN,NaN,OK. Observer: SA. Nest stage: Broodguard,NaN,NaN
+SIC020,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,21/12/2013,NaN,01/01/2014,1420,29421,None,52.5,20.3,3.15,NaN,U,Incubation,Eggs - 1,NaN,TDR expired during deployment,-60.73056667,-45.58763333
+SIC021,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,27/12/2013,NaN,03/01/2013,1530,29624,A09513,54,18.3,3.65,NaN,U,Incubation,Eggs - 2,NaN,NaN,-60.73056667,-45.58778333
+SIC022,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,01/01/2014,NaN,05/01/2014,1400,29615,A08944,52,19.5,3.8,NaN,U,Incubation,Eggs - 2,NaN,NaN,-60.73068333,-45.58718333
+SIC023,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,01/01/2014,NaN,06/01/2014,NaN,29322,A09517,46.6,17.6,3.2,NaN,U,Incubation,Eggs,NaN,NaN,-60.73041667,-45.58755
+SIC024,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,05/01/2014,NaN,07/01/2014,2145,29421,A08750,52.9,19.9,4.65,NaN,U,Incubation,Eggs - 1 pipped,NaN,NaN,-60.73068333,-45.58723333
+SIC025,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,01/01/2014,NaN,07/01/2014,1600,29330,None,48.1,18,3.95,NaN,U,Incubation,Eggs,NaN,TDR expired during deployment. Send TDR tag to CEFAS for download with no useful data downloaded,-60.73071667,-45.58675
+SIC026,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,04/01/2014,NaN,09/01/2014,NaN,29624,A09513,51.4,19.2,3.7,NaN,U,Incubation,Eggs,NaN,NaN,-60.73066667,-45.58678333
+SIC027,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,31/12/2013,NaN,10/01/2014,1045,29602,A08939,43.5,17.2,3.15,NaN,U,Incubation,Eggs,NaN,NaN,-60.73066667,-45.58713333
+SIC028,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,07/01/2014,NaN,11/01/2014,1050,29322,A09514,NaN,NaN,NaN,NaN,U,Guard,Chicks,NaN,NaN,-60.73071667,-45.5868
+SIC029,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,08/01/2014,NaN,11/01/2014,1129,29330,A08264,48,17,3.65,NaN,U,Guard,Eggs - 1 Chicks - 1,NaN,NaN,-60.73045,-45.58796667
+SIC030,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,08/01/2014,NaN,11/01/2014,1103,29421,A08750,47,18.9,3.65,NaN,U,Guard,Chicks - 2,NaN,NaN,-60.73065,-45.58675
+SIC031,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,07/01/2014,NaN,11/01/2014,1123,29626,A09517,54.4,19,4.05,NaN,U,Guard,Chicks - 2,NaN,NaN,-60.73043333,-45.58798333
+SIC032,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,08/01/2014,NaN,11/04/2014,1136,29606,A08266,46,18.6,4,NaN,U,Guard,Chicks - 2,NaN,NaN,-60.73046667,-45.58803333
+SIC033,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,06/01/2014,NaN,11/01/2014,1055,29615,A08944,45.1,17.6,4.15,NaN,U,Guard,Chicks - 2,NaN,NaN,-60.73066667,-45.58671667
+SIC034,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,21/12/2013,NaN,13/01/2014,1310,29318,L259,49,19.2,2.95,NaN,U,Incubation,Eggs - 2,NaN,Failed during deployment,-60.73038333,-45.58765
+SIC035,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,03/12/2013,NaN,17/12/2013,1430,29605,A08939,59.6,19.4,3.7,NaN,M,Incubation,Eggs - 1,NaN,Problem with GPS antenna: fixes intermittent,NaN,NaN
+SIC036,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,09/12/2013,NaN,20/12/2013,1207,29603,A08938,51.7,18.8,3.75,NaN,M,Incubation,Eggs - 1,NaN,NaN,NaN,NaN
+SIC037,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,09/12/2013,NaN,24/12/2013,1516,29624,A08944,51.4,18.1,3.7,NaN,M,Incubation,Eggs - 1,NaN,NaN,NaN,NaN
+SIC038,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,21/12/2013,NaN,29/12/2013,1150,29602,L256,45.1,18.6,3.35,NaN,U,Incubation,Eggs - 1,NaN,NaN,NaN,NaN
+SIC039,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,20/12/2013,NaN,31/12/2013,1400,29629,A08949,48.6,18.1,3.15,NaN,U,Incubation,Eggs - 2,NaN,NaN,-60.73058333,-45.58773333
+SIC040,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,21/12/2013,NaN,31/12/2013,1315,29322,None,48.5,20.3,4.1,NaN,U,Incubation,Eggs - 1,NaN,TDR expired during deployment. Send TDR tag to CEFAS for download with no useful data downloaded,-60.73035,-45.588
+SIC041,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,21/12/2013,NaN,31/12/2013,1319,29306,A08946,47.8,17.5,3.1,NaN,U,Incubation,Eggs - 1,NaN,NaN,NaN,NaN
+SIC042,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,29/12/2013,NaN,06/01/2014,1330,None,A08266,53,19.6,3.7,NaN,U,Incubation,Eggs,NaN,GPS produced no useful data,-60.73065,-45.58675
+SIC043,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,29/12/2013,NaN,05/01/2014,1415,None,A09518,45,18.4,3.7,NaN,U,Incubation,Eggs,NaN,GPS produced no useful data,-60.73068333,-45.58665
+SIC044,"South Orkneys, Signy Island, Gourlay",Chinstrap penguin,29/12/2013,NaN,05/01/2014,1330,None,A09512,47.9,19.1,3.4,NaN,U,Incubation,Eggs,NaN,GPS produced no useful data,-60.73068333,-45.58711667
+SIC045,"South Orkneys, Signy Island",Chinstrap penguin,27/12/2015,NaN,03/01/2016,NaN,29306,A12855,47,15.7,3.35,NaN,NaN,Incubation,Eggs - 2,NaN,NaN,NaN,NaN
+SIC046,"South Orkneys, Signy Island",Chinstrap penguin,27/01/2016,NaN,04/02/2016,NaN,29615,A12847,NaN,NaN,NaN,NaN,NaN,Guard,NaN,NaN,NaN,NaN,NaN
+SIC047,"South Orkneys, Signy Island",Chinstrap penguin,05/01/2016,NaN,10/01/2016,NaN,29306,A12859,51.1,22.2,4.5,NaN,NaN,Incubation,Eggs - 2,NaN,NaN,NaN,NaN
+SIC048,"South Orkneys, Signy Island",Chinstrap penguin,08/02/2016,NaN,15/03/2016,NaN,29306,A12858,49,17.8,3.85,NaN,NaN,Creche,Chicks - 2,NaN,NaN,NaN,NaN
+SIC049,"South Orkneys, Signy Island",Chinstrap penguin,27/01/2016,NaN,03/02/2016,NaN,29306,A12860,45.5,17.3,3.3,NaN,NaN,Guard,Chicks - 2,NaN,NaN,NaN,NaN
+SIC050,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2016,NaN,06/02/2016,NaN,29318,A12845,43.8,17.3,3.5,NaN,NaN,Guard,Chicks - 1,NaN,NaN,NaN,NaN
+SIC051,"South Orkneys, Signy Island",Chinstrap penguin,08/02/2016,NaN,12/02/2016,NaN,29318,A12847,44.8,17.7,3.5,NaN,NaN,Creche,Chicks - 1,NaN,NaN,NaN,NaN
+SIC052,"South Orkneys, Signy Island",Chinstrap penguin,01/12/2016,NaN,19/01/2016,NaN,29318,A12862,48.6,18.9,3.85,NaN,NaN,Guard,Chicks - 1,NaN,NaN,NaN,NaN
+SIC053,"South Orkneys, Signy Island",Chinstrap penguin,12/01/2016,NaN,19/01/2016,NaN,29322,A12850,47.1,16.4,3.25,NaN,NaN,Incubation,Eggs - 1 Chicks - 1,NaN,NaN,NaN,NaN
+SIC054,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2016,NaN,29/01/2016,NaN,29322,A12850,45,17.1,3.35,NaN,NaN,Guard,Chicks - 1,NaN,NaN,NaN,NaN
+SIC055,"South Orkneys, Signy Island",Chinstrap penguin,02/02/2016,NaN,11/02/2016,NaN,29322,A12861,46.1,17.5,3.6,NaN,NaN,Guard,Chicks - 1,NaN,NaN,NaN,NaN
+SIC056,"South Orkneys, Signy Island",Chinstrap penguin,27/12/2015,NaN,02/01/2016,NaN,29330,None,NaN,NaN,NaN,NaN,NaN,Incubation,NaN,NaN,TDR technical failure,NaN,NaN
+SIC057,"South Orkneys, Signy Island",Chinstrap penguin,05/01/2016,NaN,10/01/2016,NaN,29330,A12857,49.3,18.7,3.85,NaN,NaN,Guard,Chicks - 2,NaN,NaN,NaN,NaN
+SIC058,"South Orkneys, Signy Island",Chinstrap penguin,27/12/2015,NaN,03/01/2016,NaN,29421,A12850,46.5,17.4,3.6,NaN,NaN,Incubation,Eggs - 2,NaN,NaN,NaN,NaN
+SIC059,"South Orkneys, Signy Island",Chinstrap penguin,02/02/2016,NaN,12/02/2016,NaN,29449,A12857,48.5,17.7,4.2,NaN,NaN,Guard,Chicks - 1,NaN,NaN,NaN,NaN
+SIC060,"South Orkneys, Signy Island",Chinstrap penguin,12/01/2016,NaN,19/01/2016,NaN,29449,A12845,45.5,16.6,3.35,NaN,NaN,Incubation,Eggs - 1,NaN,NaN,NaN,NaN
+SIC061,"South Orkneys, Signy Island",Chinstrap penguin,02/02/2016,NaN,10/02/2016,NaN,29484,A12854,53.5,17.2,4.2,NaN,NaN,Guard,Chicks - 1,NaN,NaN,NaN,NaN
+SIC062,"South Orkneys, Signy Island",Chinstrap penguin,12/01/2016,NaN,22/01/2016,NaN,29484,A12857,49.2,18.4,3.25,NaN,NaN,Guard,Chicks - 2,NaN,NaN,NaN,NaN
+SIC063,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2016,NaN,29/01/2016,NaN,29484,A12856,46.9,20.2,4.15,NaN,NaN,Guard,Chicks - 2,NaN,NaN,NaN,NaN
+SIC064,"South Orkneys, Signy Island",Chinstrap penguin,12/01/2016,NaN,20/01/2016,NaN,29603,A12843,51.5,18.8,4.35,NaN,NaN,Guard,Chicks - 1,NaN,NaN,NaN,NaN
+SIC065,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2016,NaN,29/01/2016,NaN,29606,A12854,40.7,17.5,3.3,NaN,NaN,Guard,Chicks - 1,NaN,NaN,NaN,NaN
+SIC066,"South Orkneys, Signy Island",Chinstrap penguin,26/12/2015,NaN,03/01/2016,NaN,29606,A12862,44.3,16.3,3.35,NaN,NaN,Incubation,Eggs - 2,NaN,NaN,NaN,NaN
+SIC067,"South Orkneys, Signy Island",Chinstrap penguin,01/05/2016,NaN,10/01/2016,NaN,29606,A12861,42.8,19,3.95,NaN,NaN,Incubation,Eggs - 2,NaN,NaN,NaN,NaN
+SIC068,"South Orkneys, Signy Island",Chinstrap penguin,08/02/2016,NaN,15/02/2016,NaN,29615,A12845,48.7,17,3.95,NaN,NaN,Creche,Chicks - 1,NaN,NaN,NaN,NaN
+SIC069,"South Orkneys, Signy Island",Chinstrap penguin,26/12/2015,NaN,04/01/2016,NaN,29626,A12859,42,16,3.2,NaN,NaN,Incubation,Eggs - 2,NaN,NaN,NaN,NaN
+SIC070,"South Orkneys, Signy Island",Chinstrap penguin,23/01/2016,NaN,06/02/2016,NaN,29629,A12858,47.6,19.3,4.2,NaN,NaN,Guard,Chicks - 1,NaN,NaN,NaN,NaN
+SIC071,"South Orkneys, Signy Island",Chinstrap penguin,05/01/2016,NaN,11/01/2016,NaN,29629,A12850,45.2,17.6,3.65,NaN,NaN,Incubation,Eggs - 1,NaN,NaN,NaN,NaN
+SIC072,"South Orkneys, Signy Island",Chinstrap penguin,08/02/2016,NaN,16/02/2016,NaN,29629,A12856,47.5,16.5,4,NaN,NaN,Creche,Chicks - 1,NaN,NaN,NaN,NaN
+SIC073,"South Orkneys, Signy Island",Chinstrap penguin,07/12/2018,NaN,18/12/2018,1132,14514,2372,49.2,16.4,3.5,3.8,NaN,NaN,Eggs - 2,Eggs - 2,Left the nest between 9 and 10/12,NaN,NaN
+SIC074,"South Orkneys, Signy Island",Chinstrap penguin,07/12/2018,NaN,18/12/2018,1140,14515,2373,43.4,16.4,3.55,3.55,NaN,NaN,Eggs - 2,Eggs - 2,Left between 10 and 11/12,NaN,NaN
+SIC075,"South Orkneys, Signy Island",Chinstrap penguin,07/12/2018,NaN,18/12/2018,1145,14516,2374,46.8,17.6,4.15,4.6,NaN,NaN,Eggs - 2,Eggs - 2,Left the nest between 9 and 10/12,NaN,NaN
+SIC076,"South Orkneys, Signy Island",Chinstrap penguin,10/12/2018,NaN,21/12/2018,1002,14523,2375,52.5,19.6,4.4,4.7,NaN,NaN,Eggs - 2,Eggs - 2,"Was back on the nest on the 13/12, but gone on the 18/12",NaN,NaN
+SIC077,"South Orkneys, Signy Island",Chinstrap penguin,10/12/2018,NaN,24/12/2018,0940,14527,2379,53,18,3.2,4,NaN,NaN,Eggs - 2,0,Was on the nest on the 18/12,NaN,NaN
+SIC078,"South Orkneys, Signy Island",Chinstrap penguin,10/12/2018,NaN,20/12/2018,0945,14526,2378,46.1,16.9,3.35,4.1,NaN,NaN,Eggs - 1,Eggs - 2,Was gone on the 13/12,NaN,NaN
+SIC079,"South Orkneys, Signy Island",Chinstrap penguin,11/12/2018,NaN,21/12/2018,1004,None,2390,51.2,18.6,3.75,4.05,NaN,NaN,Eggs - 1,Eggs - 2,Was gone on the 13/12; GPS download error,NaN,NaN
+SIC080,"South Orkneys, Signy Island",Chinstrap penguin,11/12/2018,NaN,24/12/2018,1000,14502,2369,45.3,17.4,3.25,4.1,NaN,NaN,Eggs - 1,Eggs - 1,Was gone on the 13/12,NaN,NaN
+SIC081,"South Orkneys, Signy Island",Chinstrap penguin,11/12/2018,NaN,20/12/2018,1404,14531,2387,53.3,18.6,3.95,4.25,NaN,NaN,Eggs - 1,0,Was gone on the 13/12,NaN,NaN
+SIC082,"South Orkneys, Signy Island",Chinstrap penguin,13/12/2018,NaN,23/12/2018,1400,14530,2382,47.2,15.2,3.8,4,NaN,NaN,Eggs - 1,0,Was gone on the 18/12,NaN,NaN
+SIC083,"South Orkneys, Signy Island",Chinstrap penguin,13/12/2018,NaN,27/12/2018,1143,14538,2392,47.2,18,3.25,NaN,NaN,NaN,Eggs - 2,0,Was gone on the 18/12; on the nest on the 20/12 and 21/12; at sea on the 23/12,NaN,NaN
+SIC084,"South Orkneys, Signy Island",Chinstrap penguin,13/12/2018,NaN,27/12/2018,1032,14533,2389,47.5,17.2,3.55,3.4,NaN,NaN,Eggs - 1,Eggs - 1,"Was gone on the 18/12; on the nest on the 20/12 and 21/12, at sea on the 23/12",NaN,NaN
+SIC085,"South Orkneys, Signy Island",Chinstrap penguin,20/12/2018,NaN,27/12/2018,1151,14514,2372,45.5,14.9,3.9,4.15,NaN,NaN,Eggs - 2,Eggs - 2,"Was gone on the 21/12, on the nest on the 23/12",NaN,NaN
+SIC086,"South Orkneys, Signy Island",Chinstrap penguin,20/12/2018,NaN,31/12/2018,1102,14516,2374,47.2,17.9,4,3.9,NaN,NaN,Eggs - 2,Eggs - 2,Was gone on the 21/12; on the nest on the 24/12,NaN,NaN
+SIC087,"South Orkneys, Signy Island",Chinstrap penguin,20/12/2018,NaN,27/12/2018,1039,14515,2373,48.9,17.7,4.3,4.4,NaN,NaN,Eggs - 2,Eggs - 2,"Was gone on the 21/12; on the nest on the 23,24/12; 2nd trip incomplete so no GPS file",NaN,NaN
+SIC088,"South Orkneys, Signy Island",Chinstrap penguin,21/12/2018,NaN,26/12/2018,1320,14526,2378,49.5,18.6,3.9,3.75,NaN,NaN,Eggs - 1,Eggs - 1,Was gone on the 23/12; back on the nest on the 26/12; First trip missing on the GPS,NaN,NaN
+SIC089,"South Orkneys, Signy Island",Chinstrap penguin,21/12/2018,NaN,26/12/2018,1330,14531,2387,45.7,17.3,4.25,4.3,NaN,NaN,Eggs - 1,Eggs - 1,Was gone on the 23/12,NaN,NaN
+SIC090,"South Orkneys, Signy Island",Chinstrap penguin,23/12/2018,NaN,29/12/2018,1104,14523,2375,49.4,21.8,4.05,4.15,NaN,NaN,Eggs - 2,Eggs - 2,On the nest on the 26/12 and on the 27/12,NaN,NaN
+SIC091,"South Orkneys, Signy Island",Chinstrap penguin,24/12/2018,NaN,02/01/2019,0947,14530,2382,49.7,19.8,4.1,4.35,NaN,NaN,Eggs - 2,Chicks - 1,"On the nest on the 26/12, away on the 27/12; on the nest on the 29/12",NaN,NaN
+SIC092,"South Orkneys, Signy Island",Chinstrap penguin,26/12/2018,NaN,31/12/2018,0955,14502,2369,46.1,20.4,3.75,3.7,NaN,NaN,Eggs - 2,Eggs - 2,Was gone on the 27/12; on the nest on the 29/12,NaN,NaN
+SIC093,"South Orkneys, Signy Island",Chinstrap penguin,26/12/2018,NaN,31/12/2018,10000,14527,2379,52.1,22,4.1,NaN,NaN,NaN,Eggs - 2,Chicks -2,Was gone on the 27/12; on the nest on the 29/12,NaN,NaN
+SIC094,"South Orkneys, Signy Island",Chinstrap penguin,29/12/2018,NaN,06/01/2019,1220,14533,2389,48.1,NaN,3.7,NaN,NaN,NaN,Eggs - 2,Chicks -2, ,NaN,NaN
+SIC095,"South Orkneys, Signy Island",Chinstrap penguin,29/12/2018,NaN,03/01/2019,0948,14538,2392,44.7,16.1,3.75,NaN,NaN,NaN,Eggs - 2,Chicks -2,On the nest on the 2/01,NaN,NaN
+SIC096,"South Orkneys, Signy Island",Chinstrap penguin,27/12/2018,NaN,02/01/2019,1048,14526,2378,44.5,17.1,4.15,NaN,NaN,NaN,Eggs - 2,Chicks -2,NaN,NaN,NaN
+SIC097,"South Orkneys, Signy Island",Chinstrap penguin,27/12/2018,NaN,02/01/2019,1045,14531,2387,51.8,20.2,4.25,4,NaN,NaN,Eggs - 2,Eggs - 2,On the nest on the 29/12; on the nest on the 31/12,NaN,NaN
+SIC098,"South Orkneys, Signy Island",Chinstrap penguin,29/12/2018,NaN,03/01/2019,0954,14515,2373,46.3,18.1,3.6,NaN,NaN,NaN,Chicks -2,Chicks -2,On the nest on the 31/12 and 2/01,NaN,NaN
+SIC099,"South Orkneys, Signy Island",Chinstrap penguin,29/12/2018,NaN,03/01/2019,1005,14514,2372,47.5,19.2,4.2,4.35,NaN,NaN,Chicks - 1,Chicks - 1,On the nest on the 31/12 and 2/01,NaN,NaN
+SIC100,"South Orkneys, Signy Island",Chinstrap penguin,31/12/2018,NaN,06/01/2019,1243,14523,2375,46.6,18,4.2,4.3,NaN,NaN,Eggs - 2,Eggs - 1 Chicks - 1,On the nest on the 3/01,NaN,NaN
+SIC101,"South Orkneys, Signy Island",Chinstrap penguin,02/01/2019,NaN,07/01/2019,1137,14502,2369,53.1,20.7,3.95,3.95,NaN,NaN,Eggs - 2,Eggs - 2,On the nest on the 4/01,NaN,NaN
+SIC102,"South Orkneys, Signy Island",Chinstrap penguin,02/01/2019,NaN,09/01/2019,0939,14527,2379,47.2,17.4,3.5,3.35,NaN,NaN,Chicks - 1,Chicks - 1,On the nest on the 3/01 and 4/01,NaN,NaN
+SIC103,"South Orkneys, Signy Island",Chinstrap penguin,02/01/2019,NaN,06/01/2019,1227,14516,2374,50.7,17.1,4.15,NaN,NaN,NaN,Chicks - 2,Chicks - 2,On the nest on the 3/01,NaN,NaN
+SIC104,"South Orkneys, Signy Island",Chinstrap penguin,03/01/2019,NaN,08/01/2019,1035,14530,2382,52.3,19.9,4.4,NaN,NaN,NaN,Eggs - 1 Chicks - 1,Eggs - 1 Chicks - 1,On the nest on the 4/01 and 6/01,NaN,NaN
+SIC105,"South Orkneys, Signy Island",Chinstrap penguin,04/01/2019,NaN,09/01/2019,1034,14538,2392,45,18.3,4.3,NaN,NaN,NaN,Eggs - 1 Chicks - 1,Chicks -2,On the nest on the 6/01,NaN,NaN
+SIC106,"South Orkneys, Signy Island",Chinstrap penguin,07/01/2019,NaN,12/01/2019,1310,14533,2389,47.6,19.4,4.25,NaN,NaN,NaN,Chicks -2,Chicks -2,"Set the GPS to 2 min resolution, On the nest on the 8/01",NaN,NaN
+SIC107,"South Orkneys, Signy Island",Chinstrap penguin,03/01/2019,NaN,08/01/2019,1031,14531,2387,46.2,18.8,4.3,NaN,NaN,NaN,Chicks - 1,Chicks - 1,On the nest on the 4/01,NaN,NaN
+SIC108,"South Orkneys, Signy Island",Chinstrap penguin,03/01/2019,NaN,07/01/2019,1240,14526,2378,45.5,17.7,3.9,NaN,NaN,NaN,Chicks -2,Chicks -2,NaN,NaN,NaN
+SIC109,"South Orkneys, Signy Island",Chinstrap penguin,04/01/2019,NaN,09/01/2019,1035,14515,2373,45.1,18.3,3.8,NaN,NaN,NaN,Chicks - 1,Chicks - 1,On the nest on the 6/01,NaN,NaN
+SIC110,"South Orkneys, Signy Island",Chinstrap penguin,04/01/2019,NaN,09/01/2019,1038,14514,2372,48.3,17.4,4.25,NaN,NaN,NaN,Eggs - 2,Chicks -2,On the nest on the 6/01,NaN,NaN
+SIC111,"South Orkneys, Signy Island",Chinstrap penguin,07/01/2019,NaN,12/01/2019,1314,14523,2375,43.7,16.7,3.55,NaN,NaN,NaN,Chicks -2,Chicks -2,"Set the GPS to 2 min resolution, On the nest on the 8/01 and 10/01",NaN,NaN
+SIC112,"South Orkneys, Signy Island",Chinstrap penguin,07/01/2019,NaN,13/01/2019,1052,14516,2390,46.4,17.7,3.75,NaN,NaN,NaN,Chicks -2,Chicks -2,"Set the GPS to 2 min resolution, On the nest on the 8/01 and 10/01",NaN,NaN
+SIC113,"South Orkneys, Signy Island",Chinstrap penguin,08/01/2019,NaN,12/01/2019,1320,14502,2369,47.9,20.5,4.4,NaN,NaN,NaN,Eggs - 1 Chicks - 1,Eggs - 1 Chicks - 1,"Set the GPS to 2 min resolution, on the nest 9/01",NaN,NaN
+SIC114,"South Orkneys, Signy Island",Chinstrap penguin,09/01/2019,NaN,14/01/2019,1003,14530,2382,47.7,17.5,3.8,NaN,NaN,NaN,Chicks -2,Chicks -2,Set the GPS to 2 min resolution,NaN,NaN
+SIC115,"South Orkneys, Signy Island",Chinstrap penguin,10/01/2019,NaN,14/01/2019,1222,14538,2392,47.9,17.2,4.1,4.5,NaN,NaN,Chicks - 1,Chicks - 1,"Set the GPS to 2 min resolution, on the nest on 13/01",NaN,NaN
+SIC116,"South Orkneys, Signy Island",Chinstrap penguin,10/01/2019,NaN,15/01/2019,0954,14527,2379,49.5,18,3.8,NaN,NaN,NaN,Chicks - 1,Chicks - 1,Set the GPS to 2 min resolution,NaN,NaN
+SIC117,"South Orkneys, Signy Island",Chinstrap penguin,13/01/2019,NaN,18/01/2019,1041,14533,2389,50,17.9,4.1,NaN,NaN,NaN,Chicks - 1,Chicks - 1,NaN,NaN,NaN
+SIC118,"South Orkneys, Signy Island",Chinstrap penguin,08/01/2019,NaN,13/01/2019,1054,14526,2378,50.2,18.7,4.2,NaN,NaN,NaN,Chicks -2,Chicks -2,"Set the GPS to 2 min resolution, on the nest 13/01",NaN,NaN
+SIC119,"South Orkneys, Signy Island",Chinstrap penguin,09/01/2019,NaN,15/01/2019,0944,14531,2387,53.5,19.5,4.75,NaN,NaN,NaN,Chicks - 1,Chicks - 1,"Set the GPS to 2 min resolution, on the nest 10/01",NaN,NaN
+SIC120,"South Orkneys, Signy Island",Chinstrap penguin,10/01/2019,NaN,17/01/2019,0943,14514,2372,46.8,18.1,3.85,NaN,NaN,NaN,Chicks - 1,Chicks - 1,"Set the GPS to 2 min resolution, on the nest on the 13/01",NaN,NaN
+SIC121,"South Orkneys, Signy Island",Chinstrap penguin,10/01/2019,NaN,16/01/2019,0943,14515,2373,48.2,16.4,3.6,3.55,NaN,NaN,Eggs - 1 Chicks - 1,Eggs - 1 Chicks - 1,Set the GPS to 2 min resolution,NaN,NaN
+SIC122,"South Orkneys, Signy Island",Chinstrap penguin,13/01/2019,NaN,18/01/2019,1348,14523,2375,47.1,17.6,4.15,NaN,NaN,NaN,Chicks - 1,Chicks - 1,Set the GPS to 2 min resolution,NaN,NaN
+SIC123,"South Orkneys, Signy Island",Chinstrap penguin,14/01/2019,NaN,19/01/2019,1042,14516,2390,48.1,19.5,4.5,NaN,NaN,NaN,Chicks -2,Chicks -2,Set the GPS to 2 min resolution,NaN,NaN
+SIC124,"South Orkneys, Signy Island",Chinstrap penguin,15/01/2019,NaN,23/01/2019,1124,14538,2392,52.1,8.9,4.65,NaN,NaN,NaN,Chicks -2,Chicks -2,Set the GPS to 2 min resolution,NaN,NaN
+SIC125,"South Orkneys, Signy Island",Chinstrap penguin,15/01/2019,NaN,21/01/2019,0944,14530,2382,46.3,17.3,3.7,NaN,NaN,NaN,Chicks -2,Chicks - 1,Set the GPS to 2 min resolution,NaN,NaN
+SIC126,"South Orkneys, Signy Island",Chinstrap penguin,16/01/2019,NaN,21/01/2019,1202,14527,2379,49,17.3,4.5,NaN,NaN,NaN,Chicks - 1,Chicks - 1,Set the GPS to 2 min resolution,NaN,NaN
+SIC127,"South Orkneys, Signy Island",Chinstrap penguin,19/01/2019,NaN,24/01/2019,0945,14533,2389,44.6,16.5,3.65,NaN,NaN,NaN,Chicks -2,Chicks - 1,Set the GPS to 2 min resolution,NaN,NaN
+SIC128,"South Orkneys, Signy Island",Chinstrap penguin,14/01/2019,NaN,22/01/2019,0952,14526,2378,44.2,15.9,3.5,NaN,NaN,NaN,Chicks - 1,Chicks - 1,Set the GPS to 2 min resolution,NaN,NaN
+SIC129,"South Orkneys, Signy Island",Chinstrap penguin,17/01/2019,NaN,22/01/2019,1025,14531,2387,43,16.8,3.95,NaN,NaN,NaN,Chicks -2,Chicks -2,Set the GPS to 2 min resolution,NaN,NaN
+SIC130,"South Orkneys, Signy Island",Chinstrap penguin,18/01/2019,NaN,23/01/2019,1130,14514,2372,46.7,17.9,3.6,NaN,NaN,NaN,Chicks -2,Chicks -2,Set the GPS to 2 min resolution,NaN,NaN
+SIC131,"South Orkneys, Signy Island",Chinstrap penguin,18/01/2019,NaN,25/01/2019,1435,14515,2373,52.4,19,4.1,NaN,NaN,NaN,Chicks -2,Chicks -2,Set the GPS to 2 min resolution,NaN,NaN
+SIC132,"South Orkneys, Signy Island",Chinstrap penguin,19/01/2019,NaN,24/01/2019,0940,14523,2375,45.7,16.3,3.7,NaN,NaN,NaN,Chicks - 1,Chicks -2,Set the GPS to 2 min resolution,NaN,NaN
+LIC001,"South Orkneys, Laurie Island",Chinstrap penguin,20/12/2011,15:57,25/12/2011,20:14,29493,0094,45.2,16.2,3.1,3.8,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC002,"South Orkneys, Laurie Island",Chinstrap penguin,21/12/2011,11:39,25/12/2011,12:38,29494,0090,45.2,18,3.3,2.6,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC003,"South Orkneys, Laurie Island",Chinstrap penguin,22/12/2011,11:36,24/12/2011,10:46,29478,0083,47,16.2,3.4,2.6,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC004,"South Orkneys, Laurie Island",Chinstrap penguin,22/12/2011,06:41,28/12/2011,00:38,29476,0092,50.2,19.75,3.75,3.75,NaN,NaN,Eggs - 2,Eggs - 2,Leopard seal hanging around all day on 28 December,NaN,NaN
+LIC005,"South Orkneys, Laurie Island",Chinstrap penguin,22/12/2011,13:58,27/12/2011,19:44,29462,0085,51.2,19,3.9,4.1,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC006,"South Orkneys, Laurie Island",Chinstrap penguin,22/12/2011,05:06,26/12/2011,07:18,29466,0097,48,17.6,3.4,3.4,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC007,"South Orkneys, Laurie Island",Chinstrap penguin,22/12/2011,05:56,29/12/2011,19:05,29498,0091,45.1,16,3.3,4.4,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC008,"South Orkneys, Laurie Island",Chinstrap penguin,23/12/2011,10:26,27/12/2011,12:33,29497,0089,49.4,18.4,3.8,4,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC009,"South Orkneys, Laurie Island",Chinstrap penguin,24/12/2011,07:16,28/12/2011,20:05,29452,0098,47.9,18.2,3.4,4.1,NaN,NaN,Eggs - 2,Eggs - 2,"Leopard seal hanging around all day on 28 December; pressure offset change approx -2 db at end, then very odd",NaN,NaN
+LIC010,"South Orkneys, Laurie Island",Chinstrap penguin,24/12/2011,07:34,28/12/2011,10:05,29475,0096,50,17.5,3.6,4.2,NaN,NaN,Eggs - 2,Eggs - 2,Leopard seal hanging around all day on 28 December,NaN,NaN
+LIC011,"South Orkneys, Laurie Island",Chinstrap penguin,27/12/2011,09:23,30/12/2011,11:22,29466,0083,45.9,17.9,3.2,4.2,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC012,"South Orkneys, Laurie Island",Chinstrap penguin,26/12/2011,17:36,27/12/2011,18:05,29478,0097,50.2,17.7,3.6,4.1,NaN,NaN,Eggs - 1,Eggs - 1,NaN,NaN,NaN
+LIC013,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2011,16:50,30/12/2011,16:36,29494,0090,50.9,19,3.7,5,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC014,"South Orkneys, Laurie Island",Chinstrap penguin,27/12/2011,20:12,03/01/2012,20:04,29497,0089,46.6,17.25,3,4.2,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC015,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2011,17:14,01/01/2012,12:17,29462,0097,46.3,16.7,3.7,4.2,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC016,"South Orkneys, Laurie Island",Chinstrap penguin,27/12/2011,17:53,30/12/2011,12:32,29493,0094,52.75,18.9,2.9,4.75,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC017,"South Orkneys, Laurie Island",Chinstrap penguin,30/12/2011,14:24,01/01/2012,09:33,29476,0085,46.5,18.7,3.5,4.2,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC018,"South Orkneys, Laurie Island",Chinstrap penguin,30/12/2011,07:33,03/01/2012,13:17,29478,0092,52.1,17.7,3.7,4.4,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC019,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2011,20:47,01/01/2012,17:34,29475,0096,48.7,18.9,3.9,4.3,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC020,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2011,21:38,02/01/2012,12:48,29452,0098,44.9,16.5,3.6,4.1,NaN,NaN,Eggs - 2,Chicks - 2,First chicks seen in colony,NaN,NaN
+LIC021,"South Orkneys, Laurie Island",Chinstrap penguin,01/01/2012,11:09,04/01/2012,12:38,29498,0083,48.9,17.9,4.2,4.5,NaN,NaN,Eggs - 2,Eggs - 2,Bird 'drunk' on deployment - attributed to Stock Marker spray,NaN,NaN
+LIC022,"South Orkneys, Laurie Island",Chinstrap penguin,31/12/2011,14:34,04/01/2012,14:30,29466,0091,49.9,17.6,4,3.9,NaN,NaN,Eggs - 2,Eggs -1; Chicks -1,Bird 'drunk' on deployment - attributed to Stock Marker spray,NaN,NaN
+LIC023,"South Orkneys, Laurie Island",Chinstrap penguin,01/01/2012,07:17,04/01/2012,08:08,29494,0094,48.9,14.5,4.3,4.5,NaN,NaN,Eggs - 2,Eggs - 2,Eggs both pipping,NaN,NaN
+LIC024,"South Orkneys, Laurie Island",Chinstrap penguin,31/12/2011,17:36,04/01/2012,11:43,29493,0090,58.3,18.85,4.6,4.5,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+LIC025,"South Orkneys, Laurie Island",Chinstrap penguin,03/01/2012,18:05,05/01/2012,20:13,29476,0096,46.1,18.8,4.6,4,NaN,NaN,Eggs - 2,Eggs - 1; Chicks - 1,NaN,NaN,NaN
+LIC026,"South Orkneys, Laurie Island",Chinstrap penguin,05/01/2012,09:51,05/01/2012,20:10,29475,0085,45.5,17.2,3.9,3.2,NaN,NaN,Eggs - 2,Chicks - 2,NaN,NaN,NaN
+LIC027,"South Orkneys, Laurie Island",Chinstrap penguin,03/01/2012,07:36,06/01/2012,14:11,29462,0097,48.8,19.5,5,4.9,NaN,NaN,Eggs - 2,Chicks - 2,NaN,NaN,NaN
+LIC028,"South Orkneys, Laurie Island",Chinstrap penguin,03/01/2012,18:30,06/01/2012,13:20,29452,0098,48.9,19.6,3.8,3.9,NaN,NaN,Eggs - 2,Chicks - 2,Taken off a day earlier because of early arrival of Shackleton,NaN,NaN
+LIC029,"South Orkneys, Laurie Island",Chinstrap penguin,04/01/2012,06:37,06/01/2012,15:17,29478,0092,50.7,16.9,4.2,4.1,NaN,NaN,Eggs - 2,Eggs - 1; Chicks - 1,Taken off a day earlier because of early arrival of Shackleton,NaN,NaN
+LIC030,"South Orkneys, Laurie Island",Chinstrap penguin,04/01/2012,14:31,06/01/2012,07:16,29497,0089,48.8,17.9,4.7,4.65,NaN,NaN,Chicks - 2,Chicks - 2,Taken off a day earlier because of early arrival of Shackleton,NaN,NaN
+LIC031,"South Orkneys, Laurie Island",Chinstrap penguin,06/01/2012,15:28,10/01/2012,16:39,29494,0091,53.3,17.3,4.2,3.7,NaN,NaN,Eggs - 2,Chicks - 1,11/01/2012 - torrential rain all day - birds left alone and no recoveries attempted; 12/01/2012 - sleet and cold winds all day - birds left alone and no recoveries attempted,NaN,NaN
+LIC032,"South Orkneys, Laurie Island",Chinstrap penguin,09/01/2012,20:26,10/01/2012,16:21,29498,0083,52.1,18.4,4.4,3.8,NaN,NaN,Eggs - 2,Eggs - 1; Chicks - 1,NaN,NaN,NaN
+LIC033,"South Orkneys, Laurie Island",Chinstrap penguin,06/01/2012,13:51,13/01/2012,10:23,29493,0094,44.5,18.3,3.6,3.2,NaN,NaN,Eggs - 2,Chicks - 2,NaN,NaN,NaN
+LIC034,"South Orkneys, Laurie Island",Chinstrap penguin,07/01/2012,07:56,13/01/2012,17:10,29476,0096,51.7,18.3,4.35,3.2,NaN,NaN,Eggs - 2,Chicks - 2,NaN,NaN,NaN
+LIC035,"South Orkneys, Laurie Island",Chinstrap penguin,08/01/2012,07:58,10/01/2012,18:43,29475,0085,47.6,17.8,3.85,3.3,NaN,NaN,Eggs - 1; Chicks - 1,Chicks - 2,NaN,NaN,NaN
+LIC036,"South Orkneys, Laurie Island",Chinstrap penguin,07/01/2012,20:23,14/01/2012,06:58,29478,0090,51.6,17.6,4.4,3.7,NaN,NaN,Chicks - 2,Chicks - 1,NaN,NaN,NaN
+LIC037,"South Orkneys, Laurie Island",Chinstrap penguin,11/01/2012,06:29,13/01/2012,09:38,29497,0097,53.3,15,3.8,3.2,NaN,NaN,Eggs - 2,Chicks - 2,NaN,NaN,NaN
+LIC038,"South Orkneys, Laurie Island",Chinstrap penguin,10/01/2012,09:18,12/01/2012,17:37,29452,0098,46.4,16.4,3.4,2.9,NaN,NaN,Eggs - 2,Chicks - 2,NaN,NaN,NaN
+LIC039,"South Orkneys, Laurie Island",Chinstrap penguin,07/01/2012,18:22,13/01/2012,07:02,29466,0089,47.2,17.3,3.9,4,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC040,"South Orkneys, Laurie Island",Chinstrap penguin,07/01/2012,16:54,12/01/2012,16:27,29462,0092,50.8,17.5,3.4,3,NaN,NaN,Chicks - 2,Chicks - 1,NaN,NaN,NaN
+LIC041,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2012,11:55,18/01/2012,07:32,29498,0083,46.2,17.5,3.2,3.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC042,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2012,13:14,18/01/2012,12:22,29494,0091,52,19,3.7,3.65,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC043,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2012,12:47,17/01/2012,22:37,29475,0085,48.6,18.6,3.2,3.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC044,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2012,18:48,18/01/2012,10:04,29462,0094,48.3,15,2.8,2.8,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC045,"South Orkneys, Laurie Island",Chinstrap penguin,14/01/2012,16:54,18/01/2012,21:38,29497,0090,48.5,18.9,3,3.4,NaN,NaN,Chicks - 1,Chicks - 1,NaN,NaN,NaN
+LIC046,"South Orkneys, Laurie Island",Chinstrap penguin,14/01/2012,12:45,19/01/2012,10:54,29466,0092,50,17.8,2.8,3.2,NaN,NaN,Chicks - 1,Chicks - 1,TDR 0092 - terminal broken,NaN,NaN
+LIC047,"South Orkneys, Laurie Island",Chinstrap penguin,14/01/2012,21:18,19/01/2012,11:01,29452,0098,51.4,16.5,2.7,3.1,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC048,"South Orkneys, Laurie Island",Chinstrap penguin,14/01/2012,14:17,18/01/2012,19:58,29493,0089,48.6,17.3,3.1,3,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC049,"South Orkneys, Laurie Island",Chinstrap penguin,16/01/2012,00:05,19/01/2012,17:22,29478,0097,45.9,17.1,2.7,3.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC050,"South Orkneys, Laurie Island",Chinstrap penguin,15/01/2012,18:48,20/01/2012,10:14,29476,0096,48,17.65,2.9,2.6,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC051,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2012,12:45,23/01/2012,11:40,29498,0083,52.9,19.2,3.8,3.5,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC052,"South Orkneys, Laurie Island",Chinstrap penguin,18/01/2012,17:41,23/01/2012,09:19,29475,0094,56.7,19.8,3.5,4.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC053,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2012,14:00,24/01/2012,10:57,29462,0085,49.3,18,3.3,3.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC054,"South Orkneys, Laurie Island",Chinstrap penguin,NaN,NaN,NaN,NaN,29494,0091,49.9,19.1,3.5,2.9,NaN,NaN,Chicks - 2,Chicks - 2,TDR 0091 - no depth data recorded,NaN,NaN
+LIC055,"South Orkneys, Laurie Island",Chinstrap penguin,20/01/2012,00:30,22/01/2012,16:02,29452,0098,44.2,17.3,3.2,2.95,NaN,NaN,Chicks - 1,Chicks - 1,Recovered 1 day early,NaN,NaN
+LIC056,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2012,16:49,23/01/2012,20:16,29466,0092,43.1,17.2,2.65,2.7,NaN,NaN,Chicks - 2,Chicks - 2,TDR 0092 - terminal broken,NaN,NaN
+LIC057,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2012,18:47,24/01/2012,11:05,29493,0089,44.3,18.1,2.8,2.9,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC058,"South Orkneys, Laurie Island",Chinstrap penguin,20/01/2012,17:09,24/01/2012,10:56,29497,0090,45.5,19.6,3.2,3.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+LIC059,"South Orkneys, Laurie Island",Chinstrap penguin,20/01/2012,14:44,23/01/2012,13:21,29476,0096,49.2,18.7,3,3.6,NaN,NaN,Chicks - 2,Chicks - 2,Recovered 2 days early,NaN,NaN
+LIC060,"South Orkneys, Laurie Island",Chinstrap penguin,20/01/2012,20:35,24/01/2012,17:12,29478,0097,49.9,19.3,3.2,3.4,NaN,NaN,Chicks - 2,Chicks - 2,Biggest chicks seen so far,NaN,NaN
+MIC001,"South Orkneys, Monroe Island",Chinstrap penguin,25/12/2015,12:00,30/12/2015,12:00,29478,0232,49.9,18.5,3.5,3.75,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC002,"South Orkneys, Monroe Island",Chinstrap penguin,25/12/2015,12:00,04/01/2016,12:00,29640,0227,48.7,17.6,3.9,4.35,NaN,NaN,Eggs - 2,Eggs - 2,Did not go to sea before battery ran out after 4 days ,NaN,NaN
+MIC003,"South Orkneys, Monroe Island",Chinstrap penguin,25/12/2015,12:00,31/12/2015,23:00,65237,0231,52.4,18.8,3.45,4.2,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC004,"South Orkneys, Monroe Island",Chinstrap penguin,26/12/2015,12:00,30/12/2015,15:00,65286,0296,45.3,16.7,3.75,3.5,NaN,NaN,Eggs - 2,Eggs - 2,Did not go to sea so recovered early,NaN,NaN
+MIC005,"South Orkneys, Monroe Island",Chinstrap penguin,26/12/2015,12:00,06/01/2016,12:00,65318,0294,45,17,3.5,4,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC006,"South Orkneys, Monroe Island",Chinstrap penguin,26/12/2015,12:00,31/12/2015,12:00,65248,0305,45.8,17.3,4.1,4.45,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC007,"South Orkneys, Monroe Island",Chinstrap penguin,27/12/2015,12:00,31/12/2015,12:00,65320,0233,47.2,17.3,3.7,3.45,NaN,NaN,Eggs - 2,Eggs - 2,Did not go to sea so recovered early,NaN,NaN
+MIC008,"South Orkneys, Monroe Island",Chinstrap penguin,27/12/2015,12:00,03/01/2016,18:00,65307,0237,47.6,17.1,3.7,4.5,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC009,"South Orkneys, Monroe Island",Chinstrap penguin,27/12/2015,12:00,04/01/2016,NaN,65292,0301,49.9,15.3,3.45,3.9,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC010,"South Orkneys, Monroe Island",Chinstrap penguin,27/12/2015,12:00,03/01/2016,18:00,65266,0236,50.1,17.7,4,4.9,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC011,"South Orkneys, Monroe Island",Chinstrap penguin,27/12/2015,12:00,03/01/2016,18:00,41069,0235,52,19.9,3.9,4.6,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC012,"South Orkneys, Monroe Island",Chinstrap penguin,01/01/2016,16:00,15/01/2016,13:00,29478,0231,53.2,18.1,4.15,4.65,NaN,NaN,Eggs - 2,Chicks - 1; Pipping - 1 ,NaN,NaN,NaN
+MIC013,"South Orkneys, Monroe Island",Chinstrap penguin,01/01/2016,16:00,06/01/2016,20:00,65320,0233,51.9,18.1,3.85,4.35,NaN,NaN,Eggs - 2,Eggs - 1,GPS stopped working two hours after deployment,NaN,NaN
+MIC014,"South Orkneys, Monroe Island",Chinstrap penguin,01/01/2016,16:00,04/01/2016,16:00,65237,0226,50.7,17.3,4.15,4.1,NaN,NaN,Eggs - 2,Failed,Was with another partner and nest so early recovery,NaN,NaN
+MIC015,"South Orkneys, Monroe Island",Chinstrap penguin,01/01/2016,16:00,10/01/2016,21:00,65248,0296,48,18.8,4,4.4,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC016,"South Orkneys, Monroe Island",Chinstrap penguin,04/01/2016,16:00,07/01/2016,23:00,65307,0236,52.6,18,4.5,4.3,NaN,NaN,Eggs - 2,Eggs - 1,NaN,NaN,NaN
+MIC018,"South Orkneys, Monroe Island",Chinstrap penguin,04/01/2016,16:00,12/01/2016,01:00,65266,0237,49.5,17.8,4.1,4.45,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC019,"South Orkneys, Monroe Island",Chinstrap penguin,04/01/2016,16:00,09/01/2016,17:00,29640,0227,49.5,15.1,3.6,3.6,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC020,"South Orkneys, Monroe Island",Chinstrap penguin,05/01/2016,16:00,15/01/2016,13:00,65237,0226,51.6,18.5,4.6,4.6,NaN,NaN,Eggs - 2,Eggs - 2,Didn't go to sea until 11/01/2016 - so probably increased by 300 g,NaN,NaN
+MIC021,"South Orkneys, Monroe Island",Chinstrap penguin,05/01/2016,16:00,10/01/2016,12:00,65292,0301,51.4,19.2,4.3,4.8,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+MIC022,"South Orkneys, Monroe Island",Chinstrap penguin,12/01/2016,13:00,17/01/2016,15:00,29460,0227,48,19.2,3.9,4.15,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC023,"South Orkneys, Monroe Island",Chinstrap penguin,12/01/2016,13:00,16/01/2016,15:00,65307,0294,43.6,16.6,3.9,3.6,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC024,"South Orkneys, Monroe Island",Chinstrap penguin,16/01/2016,14:00,17/01/2016,23:00,65318,0236,46.4,18.4,3.65,3.65,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC025,"South Orkneys, Monroe Island",Chinstrap penguin,16/01/2016,14:00,19/01/2016,18:00,65237,0226,50.4,19.6,4.15,4.65,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC026,"South Orkneys, Monroe Island",Chinstrap penguin,16/01/2016,14:00,18/01/2016,14:00,65266,0237,53,20.7,4.2,4.15,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC027,"South Orkneys, Monroe Island",Chinstrap penguin,17/01/2016,14:00,19/01/2016,18:00,65307,0294,52.2,18,4.5,4.65,NaN,NaN,Chicks - 2,Chicks - 1,NaN,NaN,NaN
+MIC028,"South Orkneys, Monroe Island",Chinstrap penguin,17/01/2016,14:00,18/01/2016,21:00,65292,0301,47.3,16.4,4.3,4.7,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC029,"South Orkneys, Monroe Island",Chinstrap penguin,17/01/2016,14:00,18/01/2016,21:00,29478,0231,45.2,16.6,3.95,4,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC030,"South Orkneys, Monroe Island",Chinstrap penguin,18/01/2016,14:00,19/01/2016,23:00,29640,0227,48.8,16.6,3.95,4,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC031,"South Orkneys, Monroe Island",Chinstrap penguin,18/01/2016,14:00,19/01/2016,18:00,65318,0236,45.5,15.6,3.45,3.45,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC032,"South Orkneys, Monroe Island",Chinstrap penguin,20/01/2016,14:00,21/01/2016,15:00,65266,0237,49.4,18.7,4.35,4.9,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC033,"South Orkneys, Monroe Island",Chinstrap penguin,20/01/2016,14:00,21/01/2016,22:00,65292,0301,52.3,19,4.5,4.9,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC034,"South Orkneys, Monroe Island",Chinstrap penguin,20/01/2016,14:00,21/01/2016,22:00,65318,0236,53.5,21.4,4.25,5,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC035,"South Orkneys, Monroe Island",Chinstrap penguin,21/01/2016,14:00,22/01/2016,23:00,29640,0227,47.5,18.2,3.7,4.1,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC036,"South Orkneys, Monroe Island",Chinstrap penguin,21/01/2016,14:00,22/01/2016,19:00,65307,0294,43.6,17.7,3.7,4.15,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC037,"South Orkneys, Monroe Island",Chinstrap penguin,21/01/2016,14:00,23/01/2016,18:00,65237,0226,48,18.5,4,4.35,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC038,"South Orkneys, Monroe Island",Chinstrap penguin,22/01/2016,14:00,23/01/2016,18:00,65266,0237,46.8,19.3,3.85,4.35,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC039,"South Orkneys, Monroe Island",Chinstrap penguin,22/01/2016,14:00,24/01/2016,23:00,65318,0236,48.9,16.4,4.15,4.8,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC040,"South Orkneys, Monroe Island",Chinstrap penguin,22/01/2016,14:00,23/01/2016,23:00,65292,0301,43.7,17.1,3.9,4.3,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC041,"South Orkneys, Monroe Island",Chinstrap penguin,23/01/2016,14:00,24/01/2016,21:00,65307,0294,44.3,18.3,3.5,4,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC042,"South Orkneys, Monroe Island",Chinstrap penguin,23/01/2016,14:00,24/01/2016,21:00,29478,0231,49.1,16.5,3.7,4.15,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC043,"South Orkneys, Monroe Island",Chinstrap penguin,26/01/2016,14:30,27/01/2016,14:30,65307,0294,49.7,18,4.1,4.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC044,"South Orkneys, Monroe Island",Chinstrap penguin,26/01/2016,14:30,27/01/2016,14:30,65292,0301,45.9,17.7,4,4.1,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC045,"South Orkneys, Monroe Island",Chinstrap penguin,26/01/2016,14:30,27/01/2016,19:00,65318,0236,45,16.7,4.15,4.1,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC046,"South Orkneys, Monroe Island",Chinstrap penguin,27/01/2016,14:30,29/01/2016,15:00,29640,0227,45.2,17.2,4.35,4.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC047,"South Orkneys, Monroe Island",Chinstrap penguin,27/01/2016,14:30,28/01/2016,13:00,65266,0237,48.8,19.8,4.15,4,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC048,"South Orkneys, Monroe Island",Chinstrap penguin,27/01/2016,14:30,28/01/2016,13:00,65237,0226,52,19.3,4.5,4.3,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC049,"South Orkneys, Monroe Island",Chinstrap penguin,28/01/2016,13:30,29/01/2016,19:00,65318,0236,51,19.2,4.15,4.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC050,"South Orkneys, Monroe Island",Chinstrap penguin,28/01/2016,13:30,29/01/2016,21:00,65292,0301,52.2,18.2,4.05,4.4,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC051,"South Orkneys, Monroe Island",Chinstrap penguin,28/01/2016,13:30,29/01/2016,19:00,65307,0294,50.4,20.3,3.9,3.8,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC052,"South Orkneys, Monroe Island",Chinstrap penguin,29/01/2016,14:00,30/01/2016,16:00,29478,0231,52.2,20.3,4.45,4.45,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC053,"South Orkneys, Monroe Island",Chinstrap penguin,29/01/2016,14:00,30/01/2016,16:00,65266,0237,46.7,17.6,4.05,4.1,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+MIC054,"South Orkneys, Monroe Island",Chinstrap penguin,01/02/2016,15:00,02/02/2016,16:00,65292,0301,49.3,18.6,3.9,3.9,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+MIC055,"South Orkneys, Monroe Island",Chinstrap penguin,01/02/2016,15:00,02/02/2016,22:00,29640,0227,44.6,16.2,3.5,3.6,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+MIC056,"South Orkneys, Monroe Island",Chinstrap penguin,01/02/2016,15:00,03/02/2016,23:30,65266,0237,49.3,18.8,3.5,4.1,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+MIC057,"South Orkneys, Monroe Island",Chinstrap penguin,03/02/2016,12:15,05/02/2016,14:00,29640,0227,49.1,16.2,3.8,4.25,NaN,NaN,Chicks - 2,Chicks - 1,Creche,NaN,NaN
+MIC058,"South Orkneys, Monroe Island",Chinstrap penguin,03/02/2016,12:15,06/02/2016,14:00,29478,0231,47.1,16.3,3.5,3.6,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+MIC059,"South Orkneys, Monroe Island",Chinstrap penguin,03/02/2016,12:15,04/02/2016,14:00,65292,0301,51,18.9,3.9,4,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+MIC060,"South Orkneys, Monroe Island",Chinstrap penguin,03/02/2016,15:15,05/02/2016,14:00,65320,0233,49.6,17.8,3.85,4.2,NaN,NaN,Chicks - 2,Chicks - 2,Creche; GPS stopped working one hour after deployment,NaN,NaN
+MIC061,"South Orkneys, Monroe Island",Chinstrap penguin,03/02/2016,15:15,10/02/2016,19:00,65307,0294,45.7,15.3,3.5,3.7,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+MIC062,"South Orkneys, Monroe Island",Chinstrap penguin,04/02/2016,18:00,06/02/2016,14:00,65266,0237,55,18.7,4,4,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+MIC063,"South Orkneys, Monroe Island",Chinstrap penguin,04/02/2016,18:00,05/02/2016,14:00,65292,0301,48.1,19.1,3.6,3.85,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+MIC064,"South Orkneys, Monroe Island",Chinstrap penguin,07/02/2016,13:30,08/02/2016,20:00,29478,0231,44.8,21.9,4.3,3.9,NaN,NaN,Chicks - 1,Chicks - 1,Creche,NaN,NaN
+MIC065,"South Orkneys, Monroe Island",Chinstrap penguin,07/02/2016,13:30,08/02/2016,20:00,29640,0227,48.2,16.5,4.05,3.8,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+MIC066,"South Orkneys, Monroe Island",Chinstrap penguin,07/02/2016,13:30,08/02/2016,20:00,65292,0301,46.2,16.7,3.55,3.75,NaN,NaN,Chicks - 2,Chicks - 2,Creche,NaN,NaN
+PIC001,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2013,11:00,NaN,NaN,29478,0153,46.1,19.2,3.8,4.45,NaN,NaN,Eggs - 2,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC002,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2013,11:00,NaN,NaN,29476,0154,49.2,16.8,3.2,3.8,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+PIC003,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2013,11:00,NaN,NaN,29466,0147,44,17.1,3.2,4,NaN,NaN,Eggs - 2,Eggs - 2,Sheathbill took one egg on recovery,NaN,NaN
+PIC004,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2013,11:00,NaN,NaN,29493,0151,42.2,16.7,3.5,4.1,NaN,NaN,Eggs - 2,Chicks - 2,NaN,NaN,NaN
+PIC005,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2013,11:00,NaN,NaN,29497,0159,42.4,19.1,3.8,4,NaN,NaN,Eggs - 2,Chicks - 2,NaN,NaN,NaN
+PIC006,"South Orkneys, Laurie Island",Chinstrap penguin,29/12/2013,11:00,NaN,NaN,29462,0152,46.1,18.2,3.1,3.95,NaN,NaN,Eggs - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC007,"South Orkneys, Laurie Island",Chinstrap penguin,30/12/2013,13:00,NaN,NaN,29498,0148,51.4,19,4.55,4.6,NaN,NaN,Eggs - 2,Chicks - 1; Pipping - 1,NaN,NaN,NaN
+PIC008,"South Orkneys, Laurie Island",Chinstrap penguin,30/12/2013,13:00,NaN,NaN,29452,0158,54.2,18.3,4.1,5,NaN,NaN,Eggs - 2,Pipping - 1; Eggs - 1,NaN,NaN,NaN
+PIC009,"South Orkneys, Laurie Island",Chinstrap penguin,30/12/2013,13:00,NaN,NaN,29494,02800,42,17.3,3.8,4.6,NaN,NaN,Eggs - 2,Pipping - 1; Eggs - 1,NaN,NaN,NaN
+PIC010,"South Orkneys, Laurie Island",Chinstrap penguin,30/12/2013,13:00,NaN,NaN,29475,0157,45.3,16.6,3.7,4,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+PIC011,"South Orkneys, Laurie Island",Chinstrap penguin,30/12/2013,13:00,NaN,NaN,29640,2800,47,15.8,3.8,4.15,NaN,NaN,Eggs - 2,Pipping - 1; Eggs - 1,NaN,NaN,NaN
+PIC012,"South Orkneys, Laurie Island",Chinstrap penguin,30/12/2013,13:00,NaN,NaN,29609,0149,46.3,17.4,3.95,4.8,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+PIC013,"South Orkneys, Laurie Island",Chinstrap penguin,01/05/2014,10:30,NaN,NaN,29498,0157,48.1,17.2,4.6,4.2,NaN,NaN,Eggs - 2,Chicks - 1; Eggs - 1,NaN,NaN,NaN
+PIC014,"South Orkneys, Laurie Island",Chinstrap penguin,01/05/2014,10:30,NaN,NaN,29475,1551,48,17.7,3.9,4.2,NaN,NaN,Chicks - 2,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC015,"South Orkneys, Laurie Island",Chinstrap penguin,01/05/2014,10:30,NaN,NaN,29452,0158,44.8,15.9,4,4.05,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC016,"South Orkneys, Laurie Island",Chinstrap penguin,01/05/2014,10:30,NaN,NaN,29640,1546,54.2,19,5.15,5.15,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC017,"South Orkneys, Laurie Island",Chinstrap penguin,01/05/2014,10:30,NaN,NaN,29494,1549,47.1,16.5,4.1,4.35,NaN,NaN,Chicks - 2,Chicks - 2,Recovered early as tag falling off,NaN,NaN
+PIC018,"South Orkneys, Laurie Island",Chinstrap penguin,01/05/2014,10:30,NaN,NaN,29609,0148,48.4,16.4,3.8,3.8,NaN,NaN,Eggs - 2,Chicks - 2,NaN,NaN,NaN
+PIC019,"South Orkneys, Laurie Island",Chinstrap penguin,01/07/2014,16:30,NaN,NaN,29478,0147,53.6,17.2,3.9,3.9,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC020,"South Orkneys, Laurie Island",Chinstrap penguin,01/07/2014,16:30,NaN,NaN,29497,0149,53.4,18.3,4.1,4.7,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC021,"South Orkneys, Laurie Island",Chinstrap penguin,01/07/2014,16:30,NaN,NaN,29466,0154,48.2,18.9,4.4,4.55,NaN,NaN,Eggs - 2,Chicks - 1; Eggs - 1,NaN,NaN,NaN
+PIC022,"South Orkneys, Laurie Island",Chinstrap penguin,01/07/2014,16:30,NaN,NaN,29607,1549,48.9,18,3.8,4.1,NaN,NaN,Chicks - 1; Eggs - 1,Chicks - 2,NaN,NaN,NaN
+PIC023,"South Orkneys, Laurie Island",Chinstrap penguin,01/07/2014,16:30,NaN,NaN,29494,0159,51.4,17.8,4.05,4.35,NaN,NaN,Pipping - 1; Eggs - 1,Chicks - 2,NaN,NaN,NaN
+PIC024,"South Orkneys, Laurie Island",Chinstrap penguin,01/08/2014,16:30,NaN,NaN,29476,0153,47.3,17.7,4.15,4.15,NaN,NaN,Chicks - 1; Eggs - 1,Chicks - 1; Eggs - 1,NaN,NaN,NaN
+PIC025,"South Orkneys, Laurie Island",Chinstrap penguin,01/11/2014,12:30,NaN,NaN,29640,1546,46,14.9,3.8,3.95,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC026,"South Orkneys, Laurie Island",Chinstrap penguin,01/11/2014,12:30,NaN,NaN,29475,0158,54.2,18.8,3.95,4.45,NaN,NaN,Chicks - 1; Eggs - 1,Chicks - 1; Eggs - 1,NaN,NaN,NaN
+PIC027,"South Orkneys, Laurie Island",Chinstrap penguin,01/11/2014,12:30,NaN,NaN,29498,0151,51.5,18.5,4.5,4.6,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC028,"South Orkneys, Laurie Island",Chinstrap penguin,01/11/2014,12:30,NaN,NaN,29462,0157,47.3,18.1,4.55,5.45,NaN,NaN,Eggs - 2,Eggs - 2,NaN,NaN,NaN
+PIC029,"South Orkneys, Laurie Island",Chinstrap penguin,01/11/2014,12:30,NaN,NaN,29452,0152,46.3,18.2,4.95,4.6,NaN,NaN,Chicks - 1; Eggs - 1,Chicks - 2,NaN,NaN,NaN
+PIC030,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2013,16:30,NaN,NaN,29466,0154,54.5,17.1,4.1,3.8,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC031,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2013,16:30,NaN,NaN,29476,0159,50.4,17.6,4.25,4.5,NaN,NaN,Eggs - 1; Failed - 1,Eggs - 1; Failed - 1,NaN,NaN,NaN
+PIC032,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2013,16:30,NaN,NaN,29494,0147,47.3,16.7,4.15,4.4,NaN,NaN,Chicks - 1; Eggs - 1,Chicks - 2,NaN,NaN,NaN
+PIC033,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2013,16:30,NaN,NaN,29609,0153,46.5,17.4,4.4,4.25,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC034,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2013,16:30,NaN,NaN,29607,1549,49,17.4,4.15,3.9,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC035,"South Orkneys, Laurie Island",Chinstrap penguin,13/01/2013,16:30,NaN,NaN,29478,0148,50,18.2,4.45,4.6,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC036,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2014,16:00,NaN,NaN,29475,0151,43.6,20.7,4.15,4.1,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC037,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2014,16:00,NaN,NaN,29497,0157,48.5,17.1,3.95,4.45,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC038,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2014,16:00,NaN,NaN,29476,0149,48.5,18.6,4.2,4.4,NaN,NaN,Chicks - 1; Failed - 1,Failed,NaN,NaN,NaN
+PIC039,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2014,16:00,NaN,NaN,29462,0154,48.2,16.5,3.85,3.85,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC040,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2014,16:00,NaN,NaN,29452,0152,52.6,17,4.45,4.35,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC041,"South Orkneys, Laurie Island",Chinstrap penguin,19/01/2014,16:00,NaN,NaN,29498,0148,54.1,17.5,4.2,4.15,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC042,"South Orkneys, Laurie Island",Chinstrap penguin,20/01/2014,16:00,NaN,NaN,29466,0158,48.7,16.3,4.3,4.25,NaN,NaN,Chicks - 1; Eggs - 1,Eggs - 1; Failed - 1,NaN,NaN,NaN
+PIC043,"South Orkneys, Laurie Island",Chinstrap penguin,20/01/2014,16:00,NaN,NaN,29607,0147,53.7,18.9,4.45,4.25,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC044,"South Orkneys, Laurie Island",Chinstrap penguin,20/01/2014,16:00,NaN,NaN,29494,0153,51.3,17,4.2,4.2,NaN,NaN,Chicks abandoned,Chicks abandoned,NaN,NaN,NaN
+PIC045,"South Orkneys, Laurie Island",Chinstrap penguin,20/01/2014,16:00,NaN,NaN,29609,1549,48.4,16.7,3.9,3.75,NaN,NaN,Chicks - 1; Failed - 1,Chicks - 1; Failed - 1,NaN,NaN,NaN
+PIC046,"South Orkneys, Laurie Island",Chinstrap penguin,21/01/2014,16:00,NaN,NaN,29640,1546,48.3,19.1,3.9,3.9,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC047,"South Orkneys, Laurie Island",Chinstrap penguin,25/01/2014,18:30,NaN,NaN,29476,0159,45,16.9,3.8,3.75,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC048,"South Orkneys, Laurie Island",Chinstrap penguin,25/01/2014,18:30,NaN,NaN,29452,0147,51,17.5,4.15,3.8,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC049,"South Orkneys, Laurie Island",Chinstrap penguin,25/01/2014,18:30,NaN,NaN,29607,1546,53.3,19.5,4,4.05,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC050,"South Orkneys, Laurie Island",Chinstrap penguin,25/01/2014,18:30,NaN,NaN,29498,0153,49.6,17.1,4.25,4.7,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC051,"South Orkneys, Laurie Island",Chinstrap penguin,26/01/2014,11:00,NaN,NaN,29497,0149,47,21.3,4.2,4.05,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC052,"South Orkneys, Laurie Island",Chinstrap penguin,26/01/2014,11:00,NaN,NaN,29640,0148,44.8,18.2,3.9,4.45,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC053,"South Orkneys, Laurie Island",Chinstrap penguin,26/01/2014,11:00,NaN,NaN,29478,0157,44,17.9,3.85,3.95,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC054,"South Orkneys, Laurie Island",Chinstrap penguin,26/01/2014,11:00,NaN,NaN,29462,0154,49.3,16,3.95,3.95,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC055,"South Orkneys, Laurie Island",Chinstrap penguin,26/01/2014,11:00,NaN,NaN,29466,0158,47,18.4,4.35,4.65,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC056,"South Orkneys, Laurie Island",Chinstrap penguin,26/01/2014,18:00,NaN,NaN,29475,0151,51.3,17,4.25,4.25,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC057,"South Orkneys, Laurie Island",Chinstrap penguin,30/01/2014,16:00,NaN,NaN,29462,0147,44.9,18.4,4.45,4.45,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC058,"South Orkneys, Laurie Island",Chinstrap penguin,30/01/2014,16:00,NaN,NaN,29452,0151,46.4,16.8,3.7,3.5,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC059,"South Orkneys, Laurie Island",Chinstrap penguin,30/01/2014,16:00,NaN,NaN,29475,0158,48.4,15.1,4.15,3.6,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC060,"South Orkneys, Laurie Island",Chinstrap penguin,31/01/2014,17:00,NaN,NaN,29460,0154,50.2,20.4,4.6,4.2,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC061,"South Orkneys, Laurie Island",Chinstrap penguin,31/01/2014,17:00,NaN,NaN,29498,0148,51.5,17,3.6,3.6,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC062,"South Orkneys, Laurie Island",Chinstrap penguin,31/01/2014,17:00,NaN,NaN,29607,0153,53.3,18.1,3.9,4.55,NaN,NaN,Chicks - 2,Creche,NaN,NaN,NaN
+PIC063,"South Orkneys, Laurie Island",Chinstrap penguin,31/01/2014,17:00,NaN,NaN,29478,0149,47.5,19.6,4.65,4.1,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC064,"South Orkneys, Laurie Island",Chinstrap penguin,31/01/2014,17:00,NaN,NaN,29497,0157,50.3,19.6,4.1,3.9,NaN,NaN,Chicks - 2,Chicks - 2,NaN,NaN,NaN
+PIC065,"South Orkneys, Laurie Island",Chinstrap penguin,02/04/2014,11:30,NaN,NaN,29640,0157,48.5,17.5,3.75,3.95,NaN,NaN,Creche,Creche,NaN,NaN,NaN
+PIC066,"South Orkneys, Laurie Island",Chinstrap penguin,02/04/2014,17:00,NaN,NaN,29452,0148,47.3,16.5,3.65,3.6,NaN,NaN,Creche,Creche,NaN,NaN,NaN
+PIC067,"South Orkneys, Laurie Island",Chinstrap penguin,02/04/2014,17:00,NaN,NaN,29498,0149,50.3,16,3.75,3.85,NaN,NaN,Creche,Creche,NaN,NaN,NaN
+PIC068,"South Orkneys, Laurie Island",Chinstrap penguin,02/04/2014,17:00,NaN,NaN,29478,0151,49.2,16.8,3.85,3.9,NaN,NaN,Creche,Creche,NaN,NaN,NaN

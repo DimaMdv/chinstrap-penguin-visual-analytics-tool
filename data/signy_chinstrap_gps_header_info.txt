@@ -1,0 +1,44 @@
+# id: 10.5285/8f8ccba5-01af-4b00-8a3b-c3c85b24bf92
+# title: GPS tracks of chinstrap penguins at the South Orkney Islands, 2011-2019
+# summary: This dataset comprises Global Positioning System (GPS) data for chinstrap penguins, pygoscelid antarcticus, at the South Orkney Islands (Signy, Monroe, Powell and Laurie island) from 2011 to 2019.  Chinstrap penguins were fitted with GPS tags between December to January (austral summer) to better understand their movement for seabird conservation and management. The data includes GPS positions at specified intervals for deployed tags, with additional metadata on the morphology of the birds, their deployment, and breeding. 
+# acknowledgement: Work was carried out by personnel at the British Antarctic Survey (BAS) and was funded by Natural Environment Research Council (UK) core funding to BAS.
+# keywords: Chinstrap penguin,GPS,Global Positioning System,Pygoscelid antarcticus,Signy Island,Tracking
+# citation: Trathan, P., Lowther, A., Manco, F., Ratcliffe, N., & Manthorpe, S.J. (2025). GPS tracks of chinstrap penguins at the South Orkney Islands, 2011-2019 (Version 1.0) [Data set]. NERC EDS UK Polar Data Centre. https://doi.org/10.5285/8f8ccba5-01af-4b00-8a3b-c3c85b24bf92
+# license: http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+# history: Global Positioning system (GPS) devices were fitted to 313 chinstrap penguins at the South Orkney Islands (listed below) between December and January, 2011 to 2019. Breeding penguins were caught during incubation, brood and creche periods and fitted with GPS loggers (Sirtrack Fastloc) using Tessa tape and a two-part quick-setting glue. Handling time did not exceed 10 minutes for deployment and 5 minutes for retrieval. Loggers were always less than 1 percent of the bird's body mass.
+# : Devices were retrieved on average after 4.7 days.
+# : GPS loggers recorded locations every 4 minutes, with longer intervals if the GPS could not connect to satellites (when the bird was underwater). GPS data includes a timestamp along with the latitude and longitude in decimal degrees.
+# : The number of deployed tags per year are as follows:
+# : Signy Island:
+# : 2011 -2012: 11
+# : 2013-2014: 25
+# : 2015-2016: 28
+# : 2018-2019: 59
+# : Laurie Island:
+# : 2011-2012: 60
+# : Monroe Island:
+# : 2015-2016: 65
+# : Powell Island:
+# : 2013-2014: 68
+# comment: Values which were null or reported as 0.00 in the latitude and longitude columns were removed. 
+# : This is a version 2 of a previous dataset, that included GPS and TDR tags together. Errors found in the metadata and data were rectified in this version, which also includes a broader spatial and temporal coverage of tracks. 
+# : When the sex of the bird was not known, 'U' was used in the metadata file.
+# : Sirtrack Fastloc 33 F2G133A (38.4g in air, 65x28x22mm with 40mm whip antenna
+# : Sirtrack Fastloc 33 F3G133A (31.0g in air, 63x24x22mm with 40mm whip antenna
+# institution: British Antarctic Survey
+# authors: Philip Trathan,Andrew Lowther,Fabrizio Manco,Norman Ratcliffe,Sarah Manthorpe
+# references: https://doi.org/10.1002/ece3.4519,https://doi.org/10.1007/10.1002/ecs2.2392,https://doi.org/10.1007/s00300-018-2404-4,https://doi.org/10.1093/beheco/arac066,https://doi.org/10.1111/ddi.12817,https://doi.org/10.1186/s40462-021-00261-x,https://doi.org/10.1186/s40462-022-00330-9,https://www.doi.org/10.5285/ff0cbcb7-bdad-4d03-bdf2-a54c54d67d9f,https://www.doi.org/10.5285/da13e049-be2b-4345-bbdd-ab960cb24731,https://www.doi.org/10.5285/bf62d713-93e5-487f-acba-1ec2da35c7e1,
+# : https://www.doi.org/10.5285/9cb04ca6-f88f-4368-b715-45ff73ff81eb,https://www.doi.org/10.5285/55b4d36f-c5e1-4d64-bb14-0b832dcd4b88
+# publisher_name: NERC EDS UK Polar Data Centre
+# publisher_type: institution
+# publisher_email: pdc@bas.ac.uk
+# publisher_url: https://www.bas.ac.uk/data/uk-pdc/
+# time_coverage_start: 2011-12-29
+# time_coverage_end: 2019-01-24
+# geospatial_lon_min: -46.06731
+# geospatial_lon_max: -33.12241
+# geospatial_lat_min: -60.73388
+# geospatial_lat_max: -56.48524
+# geospatial_bounds_crs: EPSG:4326
+# [a]: Stage refers to the stage of the chick rearing process. Incubation = A parent is incubating an egg. Guard = a parent is guarding the chick. Creche = chicks are left unguarded by their parents but are still fed.
+# [b]: Nest refers to the status of the nest during deployment, of if included, tag retrieval. For example, 'Chicks - #' = '#' of chicks in the nest. Similarly, 'Eggs - 1 Chicks - 1' means there was 1 egg and 1 chick. In some instances, 'tiny', 'small' and 'medium' are included and referring to the chick, but no standard parameters are used. 

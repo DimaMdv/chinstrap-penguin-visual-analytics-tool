@@ -1,0 +1,307 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Embedding Vega-Lite</title>
+    <script src="https://cdn.jsdelivr.net/npm/vega@6.2.0"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.1"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.0.2"></script>
+    <script src="https://vega.github.io/vega/vega.min.js"></script>
+  </head>
+  <body>
+    <!-- Containers for visualizations -->
+    <div id="vis-geo-heatmap"></div>
+    <div id="vis-main"></div>
+
+    <script type="text/javascript">
+      // Specs for the first visualization
+      
+      var LinkedHeatmapSpecs = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "data": {
+          "url": "processed_data/meta_pca.csv"
+        },
+        "params": [
+          {
+            "name": "max_distance",
+            "value": 1200,
+            "bind": {
+              "input": "range",
+              "min": 0,
+              "max": 1200,
+              "step": 100,
+              "name": "Max distance (km): "
+            }
+          },
+          {
+            "name": "pts",
+            "select": {"type": "interval", "encodings": ["x", "y"]}
+          }
+        ],
+        "vconcat": [
+          {
+            "hconcat": [
+                {
+                "mark": "point",
+                "width": 600,
+                "height": 300,
+                "transform": [
+                  {"filter": "datum.PCA0 < -304"},
+                  {"filter": "datum.path_len <= max_distance"}
+                ],
+                "encoding": {
+                  "x": {
+                    "field": "PCA0",
+                    "type": "quantitative",
+                    "title": "PCA Component 0",
+                    "scale": {"domain": [-308, -303]}
+                  },
+                  "y": {
+                    "field": "PCA1",
+                    "type": "quantitative",
+                    "title": "PCA Component 1",
+                    "scale": {"domain": [35, 39]}
+                  },
+                  "color": {
+                    "field": "season_success",
+                    "type": "nominal",
+                    "title": "Season Success"
+                  },
+                  "opacity": {
+                    "condition": {
+                      "param": "pts",
+                      "value": 0.8
+                    },
+                    "value": 0.1
+                  },
+                  "tooltip": [
+                    {
+                      "field": "path_len",
+                      "type": "quantitative",
+                      "title": "Distance (km)",
+                      "format": ".2f"
+                    },
+                    {
+                      "field": "Weight_deployment",
+                      "type": "quantitative",
+                      "title": "Weight deployment (kg)",
+                      "format": ".2f"
+                    },
+                    {
+                      "field": "Bill_length",
+                      "type": "quantitative",
+                      "title": "Bill length (mm)",
+                      "format": ".2f"
+                    }
+                  ]
+                },
+                "title": "Embedding"
+              },
+              {
+                // Boxplot starts here
+
+                
+                "mark": {"type": "point"},
+                // "width": 300,
+                // "height": 300,
+                "title": "Distance Traveled (km) by Season Success",
+                // "transform": [
+                //   {"filter": {"param": "pts"}}
+                // ],
+                "encoding": {
+                  "x": {
+                    "field": "season_success",
+                    //"type": "nominal",
+                    "title": "Season Success"
+                  },
+                  "y": {
+                    "field": "path_len",
+                    //"type": "quantitative",
+                    "title": "Distance Traveled (km)",
+                    //"scale": {"domain": [0, 1200]}
+                  },
+                  // "color": {
+                  //   "field": "season_success",
+                  //   "type": "nominal",
+                  //   "title": "Season Success"
+                  // }
+                }
+              
+
+                // Boxplot ends here
+              }
+            ]
+          },
+          {
+            "hconcat": [
+              {
+                "transform": [
+                  {"filter": {"param": "pts"}},
+                  {
+                    "bin": {"minstep": 0.1, "maxbins": 50},
+                    "field": "Weight_deployment",
+                    "as": "Weight_deployment_bin"
+                  },
+                  {
+                    "bin": {"minstep": 0.1, "maxbins": 50},
+                    "field": "Weight_return",
+                    "as": "Weight_return_bin"
+                  },
+                  {
+                    "aggregate": [{
+                      "op": "mean",
+                      "field": "path_len",
+                      "as": "mean_path_len"
+                    }],
+                    "groupby": ["Weight_deployment_bin", "Weight_deployment_bin_end", "Weight_return_bin", "Weight_return_bin_end"]
+                  },
+                  {
+                    "filter": "datum.mean_path_len <= max_distance"
+                  }
+                ],
+                "mark": "rect",
+                "width": 300,
+                "height": 300,
+                "encoding": {
+                  "x": {
+                    "field": "Weight_deployment_bin",
+                    "type": "quantitative",
+                    "title": "Weight on deployment (kg)",
+                    "scale": {"domain": [0, 5.5]}
+                  },
+                  "x2": {"field": "Weight_deployment_bin_end"},
+                  "y": {
+                    "field": "Weight_return_bin",
+                    "type": "quantitative",
+                    "title": "Weight on return (kg)",
+                    "scale": {"domain": [0, 5.5]}
+                  },
+                  "y2": {"field": "Weight_return_bin_end"},
+                  "color": {
+                    "field": "mean_path_len",
+                    "type": "quantitative",
+                    "title": "Average distance traveled (km)"
+                  },
+                  "tooltip": [
+                    {
+                      "field": "mean_path_len",
+                      "type": "quantitative",
+                      "title": "Avg. distance (km)",
+                      "format": ".2f"
+                    }
+                  ]
+                },
+                "title": {
+                  "text": "Average distance traveled compared to weight"
+                }
+              },
+              {
+                "transform": [
+                  {"filter": {"param": "pts"}},
+                  {
+                    "bin": {"minstep": 0.5, "maxbins": 50},
+                    "field": "Bill_length",
+                    "as": "Bill_length_bin"
+                  },
+                  {
+                    "bin": {"minstep": 0.25, "maxbins": 50},
+                    "field": "Bill_depth",
+                    "as": "Bill_depth_bin"
+                  },
+                  {
+                    "aggregate": [{
+                      "op": "mean",
+                      "field": "path_len",
+                      "as": "mean_path_len"
+                    }],
+                    "groupby": ["Bill_length_bin", "Bill_length_bin_end", "Bill_depth_bin", "Bill_depth_bin_end"]
+                  },
+                  {
+                    "filter": "datum.mean_path_len <= max_distance"
+                  }
+                ],
+                "mark": "rect",
+                "width": 300,
+                "height": 300,
+                "encoding": {
+                  "x": {
+                    "field": "Bill_length_bin",
+                    "type": "quantitative",
+                    "title": "Bill length (mm)",
+                    "scale": {"domain": [40, 60]}
+                  },
+                  "x2": {"field": "Bill_length_bin_end"},
+                  "y": {
+                    "field": "Bill_depth_bin",
+                    "type": "quantitative",
+                    "title": "Bill depth (mm)",
+                    "scale": {"domain": [10, 22]}
+                  },
+                  "y2": {"field": "Bill_depth_bin_end"},
+                  "color": {
+                    "field": "mean_path_len",
+                    "type": "quantitative",
+                    "title": "Average distance traveled (km)"
+                  },
+                  "tooltip": [
+                    {
+                      "field": "mean_path_len",
+                      "type": "quantitative",
+                      "title": "Avg. distance (km)",
+                      "format": ".2f"
+                    }
+                  ]
+                },
+                "title": {
+                  "text": "Average distance traveled compared to bill size"
+                }
+              }
+            ]
+          }
+        ]
+      }
+
+      var BoxplotSpecs = {
+        "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+        "data": {
+          "url": "processed_data/meta_pca.csv"
+        },
+        "mark": {
+          "type": "boxplot",
+          "size": 50
+        },
+        "encoding": {
+          "x": {
+            "field": "season_success",
+            "type": "nominal",
+            "title": "Season success",
+            "axis": {
+              "labelExpr": "datum.label == 'null' ? 'No Data' : datum.label == 'Eggs' ? 'Eggs' : datum.label == 'Fail' ? 'Fail' : datum.label == 'Success' ? 'Success' : 'No Data'",
+              "labelAngle": 0,
+              "labelFontSize": 12
+            }
+          },
+          "y": {
+            "field": "path_len",
+            "type": "quantitative",
+            "title": "Distance traveled (km)",
+            // "axis": {
+            //   "values": [0, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000, 1100, 1200]
+            // }
+          },
+          "color": {
+            "field": "season_success",
+            "legend": null
+          },
+        },
+        "title": {
+          "text": "Distance traveled by success during breeding period"
+        },
+        "width": 400,
+      }
+
+      // Embedding the visualizations
+      vegaEmbed('#vis-main', LinkedHeatmapSpecs);
+      //vegaEmbed('#vis-geo-heatmap', BoxplotSpecs);
+    </script>
+  </body>
+</html>
